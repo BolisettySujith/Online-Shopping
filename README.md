@@ -31,7 +31,6 @@ In this class there are set of electronics items along with some brands. the cus
 - Refrigerator
 
 
-
 > 4. **Fashion class**
 ![Fasion](Fashion.jpg)
 
