@@ -13,7 +13,7 @@ There are a total of 7 classes included in this program
 This class will control all the details of the employees.
 
 > 2. **User account creditals & Customer class**
-![customer](customer.jpg)
+![customer](Customer.jpg)
 
 This class will verify the customer details and give access to the customer for creating an account and logging in account.
 
